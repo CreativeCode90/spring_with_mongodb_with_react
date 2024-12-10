@@ -7,4 +7,5 @@
 ## Create Model
 ![Preview](snapshot/create.png)
 
-('ls)
+```bash
+ls

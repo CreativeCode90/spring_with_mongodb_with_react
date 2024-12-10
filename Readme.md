@@ -8,4 +8,4 @@
 ![Preview](snapshot/create.png)
 
 ```bash
-ls
+git clone https://github.com/CreativeCode90/spring_with_mongodb_with_react.git

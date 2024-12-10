@@ -1,5 +1,5 @@
 package com.example.Springwithdb.Services;
-
+// this is service class all the task like savedata , getll and etc are createing this class and class in controller class
 import com.example.Springwithdb.Model.MyModel;
 import com.example.Springwithdb.Reposetory.Myrepo;
 import org.bson.types.ObjectId;
